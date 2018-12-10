@@ -46,7 +46,7 @@ The above command can also be put in a batch script in **C:\Windows\System32**
 Once the image is shown, following are the keys which are linked to the image:
 
 * i : Invert image
-* + : Make image more transparent
-* - : Make image less transparent
+* "+" : Make image more transparent
+* "-" : Make image less transparent
 * Esc : Close the image
 * s : Save the full sized image
